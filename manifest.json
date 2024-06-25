@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "table-collapse-plugin",
+	"name": "Table Collapse Plugin",
 	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"minAppVersion": "0.12.0",
+	"description": "在表格的thead中添加一个折叠按钮",
+	"author": "熊猫",
+	"authorUrl": "https://你的网址",
 	"isDesktopOnly": false
 }
